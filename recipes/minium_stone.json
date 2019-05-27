@@ -1,0 +1,29 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "rtr:minium_stone"
+        },
+
+
+        "tags": ["crafting_table"],
+        "pattern": [
+            "GGG",
+            "GOG",
+            "GGG"
+        ],
+        "key": {
+            "O": {
+                "item": "rtr:inert_stone"
+            },
+            "G": {
+                "item": "rtr:minium_shard"
+            }
+          
+            
+        },
+        "result": {
+            "item": "rtr:minium_stone"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "rtr:inert_stone"
+        },
+
+
+        "tags": ["crafting_table"],
+        "pattern": [
+            "OGO",
+            "GRG",
+            "OGO"
+        ],
+        "key": {
+            "O": {
+                "item": "minecraft:stone"
+            },
+            "G": {
+                "item": "minecraft:iron_ingot"
+            },
+            "R": {
+                "item": "minecraft:gold_ingot"
+            }
+        },
+        "result": {
+            "item": "rtr:inert_stone"
+        }
+    }
+}
