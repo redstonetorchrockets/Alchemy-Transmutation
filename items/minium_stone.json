@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "rtr:minium_stone"
+        },
+
+        "components": {
+            "minecraft:stacked_by_data": true,
+            "minecraft:max_stack_size" : "1"
+        }
+    }
+}
