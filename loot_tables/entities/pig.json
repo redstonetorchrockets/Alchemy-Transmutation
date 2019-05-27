@@ -5,8 +5,8 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "minecraft:porkchop",
                     "weight": 1,
+                    "name": "rtr:minium_shard",
                     "functions": [
                         {
                             "function": "set_count",
@@ -21,6 +21,7 @@
                                 {
                                     "condition": "entity_properties",
                                     "entity": "this",
+                                    "looting_multiplier": 0.01,
                                     "properties": {
                                         "on_fire": true
                                     }
@@ -35,26 +36,19 @@
                             }
                         }
                     ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:stone",
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 0.25
+                        }
+                    ]
                 }
             ]
-        },
-        {
-            "rolls": 1,
-            "entries": [
-              {
-                "type": "item",
-                "name": "rtr:minium_stone",
-                "weight": 1,
-                "functions": [
-                  {
-                    
-                "chance": 0.25
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-
-    
+        }
+    ]
+}
