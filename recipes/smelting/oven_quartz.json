@@ -24,7 +24,7 @@
             }
         },
         "result": [
-            { "item": "minecraft:quarz", "count": 7 },
+            { "item": "minecraft:quartz", "count": 7 },
             { "item": "rtr:minium_stone", "count": 1}
           ]
     }
