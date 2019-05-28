@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "minecraft:iron_ingot"
+            "identifier": "minecraft:iron_ingot61616"
         },
 
 
@@ -23,7 +23,7 @@
             
         },
         "result": [
-            { "item": "minecraft:iron_ingot", "count": 4 },
+            { "item": "minecraft:iron_ingot", "count": 1 },
             { "item": "rtr:minium_stone", "count": 1}
           ]
     }

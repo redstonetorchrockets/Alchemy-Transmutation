@@ -2,15 +2,15 @@
     "format_version": "1.12",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "minecraft:iron_ingot"
+            "identifier": "minecraft:iron_ingot12512561"
         },
 
 
         "tags": ["crafting_table"],
         "pattern": [
             "OG ",
-            "GG ",
-            "G  "
+            "   ",
+            "   "
         ],
         "key": {
             "O": {

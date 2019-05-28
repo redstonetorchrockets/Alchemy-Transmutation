@@ -2,15 +2,15 @@
     "format_version": "1.12",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "minecraft:clay"
+            "identifier": "minecraft:clay25235235233435353"
         },
 
 
         "tags": ["crafting_table"],
         "pattern": [
             "OG ",
-            "GG ",
-            "G  "
+            "   ",
+            "   "
         ],
         "key": {
             "O": {

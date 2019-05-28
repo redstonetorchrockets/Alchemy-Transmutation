@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "minecraft:diamond"
+            "identifier": "minecraft:diamond325235235"
         },
 
 
@@ -23,7 +23,7 @@
             
         },
         "result": [
-            { "item": "minecraft:diamond", "count": 4 },
+            { "item": "minecraft:diamond", "count": 1 },
             { "item": "rtr:minium_stone", "count": 1}
           ]
     }

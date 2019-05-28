@@ -2,15 +2,15 @@
     "format_version": "1.12",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "minecraft:gold_block"
+            "identifier": "minecraft:gold_block1241241"
         },
 
 
         "tags": ["crafting_table"],
         "pattern": [
             "OG ",
-            "GG ",
-            "G  "
+            "   ",
+            "   "
         ],
         "key": {
             "O": {
