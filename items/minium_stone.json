@@ -6,7 +6,9 @@
         },
 
         "components": {
-            "minecraft:stacked_by_data": true
+            "minecraft:stacked_by_data": true,
+            "Minecraft:setContainerItem": "item.rtr:minium_stone",
+            "minecraft:max_stack_size" : 1
 
         }
     }
