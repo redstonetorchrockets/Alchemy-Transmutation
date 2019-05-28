@@ -22,9 +22,9 @@
            
             
         },
-        "result": {
-            "item": "minecraft:iron_ingot",
-            "count": 8
-        }
+        "result": [
+            { "item": "minecraft:iron_ingot", "count": 8 },
+            { "item": "rtr:minium_stone", "count": 1}
+          ]
     }
 }

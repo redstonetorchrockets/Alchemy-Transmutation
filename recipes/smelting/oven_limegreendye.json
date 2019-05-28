@@ -23,9 +23,9 @@
                 "item": "minecraft:sea_pickle"
             }
         },
-        "result": {
-            "item": "minecraft:dye[10]",
-            "count": 7
-        }
+        "result": [
+            { "item": "minecraft:dye[10]", "count": 7 },
+            { "item": "rtr:minium_stone", "count": 1}
+          ]
     }
 }

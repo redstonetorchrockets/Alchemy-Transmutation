@@ -23,9 +23,9 @@
                 "item": "minecraft:clay_ball"
             }
         },
-        "result": {
-            "item": "minecraft:brick",
-            "count": 7
-        }
+        "result": [
+            { "item": "minecraft:brick", "count": 7 },
+            { "item": "rtr:minium_stone", "count": 1}
+          ]
     }
 }

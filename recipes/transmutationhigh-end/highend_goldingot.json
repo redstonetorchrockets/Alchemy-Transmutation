@@ -22,9 +22,9 @@
            
             
         },
-        "result": {
-            "item": "minecraft:gold_ingot",
-            "count": 4
-        }
+        "result": [
+            { "item": "minecraft:gold_ingot", "count": 4 },
+            { "item": "rtr:minium_stone", "count": 1}
+          ]
     }
 }

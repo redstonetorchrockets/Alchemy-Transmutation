@@ -23,9 +23,9 @@
                 "item": "minecraft:diamond_ore"
             }
         },
-        "result": {
-            "item": "minecraft:diamond",
-            "count": 7
-        }
+        "result": [
+            { "item": "minecraft:diamond", "count": 7 },
+            { "item": "rtr:minium_stone", "count": 1}
+          ]
     }
 }

@@ -22,9 +22,9 @@
            
             
         },
-        "result": {
-            "item": "minecraft:log",
-            "count": 2
-        }
+        "result": [
+            { "item": "minecraft:log", "count": 2 },
+            { "item": "rtr:minium_stone", "count": 1}
+          ]
     }
 }

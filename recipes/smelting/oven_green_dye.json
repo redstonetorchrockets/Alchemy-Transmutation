@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "minecraft:cooked_porkchop"
+            "identifier": "minecraft:dye"
         },
 
 
@@ -20,12 +20,12 @@
                 "item": "minecraft:coal"
             },
             "R": {
-                "item": "minecraft:porkchop"
+                "item": "minecraft:cactus"
             }
         },
-        "result": {
-            "item": "minecraft:cooked_porkchop",
-            "count": 7
-        }
+        "result": [
+            { "item": "minecraft:dye", "count": 7 },
+            { "item": "rtr:minium_stone", "count": 1}
+          ]
     }
 }

@@ -23,9 +23,10 @@
                 "item": "minecraft:sponge[1]"
             }
         },
-        "result": {
-            "item": "minecraft:sponge[0]",
-            "count": 7
-        }
+        "result": [
+            { "item": "minecraft:sponge[0]", "count": 7 },
+            { "item": "rtr:minium_stone", "count": 1}
+          ]
+
     }
-}
+    }

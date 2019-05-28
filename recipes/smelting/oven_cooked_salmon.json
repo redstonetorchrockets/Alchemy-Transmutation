@@ -23,9 +23,9 @@
                 "item": "minecraft:salmon"
             }
         },
-        "result": {
-            "item": "minecraft:cooked_salmon",
-            "count": 7
-        }
+        "result": [
+            { "item": "minecraft:cooked_salmon", "count": 7 },
+            { "item": "rtr:minium_stone", "count": 1}
+          ]
     }
 }

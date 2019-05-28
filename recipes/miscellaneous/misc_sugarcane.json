@@ -22,9 +22,9 @@
            
             
         },
-        "result": {
-            "item": "minecraft:reeds",
-            "count": 3
-        }
+        "result": [
+            { "item": "minecraft:reeds", "count": 3 },
+            { "item": "rtr:minium_stone", "count": 1}
+          ]
     }
 }

@@ -23,9 +23,9 @@
                 "item": "minecraft:chicken"
             }
         },
-        "result": {
-            "item": "minecraft:cooked_chicken",
-            "count": 7
-        }
+        "result": [
+            { "item": "minecraft:cooked_chicken", "count": 7 },
+            { "item": "rtr:minium_stone", "count": 1}
+          ]
     }
 }

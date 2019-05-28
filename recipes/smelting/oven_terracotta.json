@@ -23,9 +23,9 @@
                 "item": "minecraft:clay"
             }
         },
-        "result": {
-            "item": "minecraft:hardened_clay",
-            "count": 7
-        }
+        "result": [
+            { "item": "minecraft:hardened_clay", "count": 7 },
+            { "item": "rtr:minium_stone", "count": 1}
+          ]
     }
 }

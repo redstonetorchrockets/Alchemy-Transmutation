@@ -22,9 +22,9 @@
            
             
         },
-        "result": {
-            "item": "minecraft:ender_pearl",
-            "count": 1
-        }
+        "result": [
+            { "item": "minecraft:ender_pearl", "count": 1 },
+            { "item": "rtr:minium_stone", "count": 1}
+          ]
     }
 }

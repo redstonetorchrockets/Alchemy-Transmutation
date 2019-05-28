@@ -22,9 +22,9 @@
            
             
         },
-        "result": {
-            "item": "minecraft:gold_block",
-            "count": 1
-        }
+        "result": [
+            { "item": "minecraft:gold_block", "count": 1 },
+            { "item": "rtr:minium_stone", "count": 1}
+          ]
     }
 }

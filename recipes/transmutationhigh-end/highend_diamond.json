@@ -22,9 +22,9 @@
            
             
         },
-        "result": {
-            "item": "minecraft:diamond",
-            "count": 1
-        }
+        "result": [
+            { "item": "minecraft:diamond", "count": 4 },
+            { "item": "rtr:minium_stone", "count": 1}
+          ]
     }
 }
