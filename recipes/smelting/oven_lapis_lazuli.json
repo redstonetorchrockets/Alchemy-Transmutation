@@ -24,7 +24,7 @@
             }
         },
         "result": [
-            { "item": "minecraft:dye[4]", "count": 7 },
+            { "item": "minecraft:dye", "count": 7, "AttributeName": 4 },
             { "item": "rtr:minium_stone", "count": 1}
           ]
         
